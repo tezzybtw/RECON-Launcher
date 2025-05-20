@@ -1,1 +1,1 @@
-IF LAUNCHER DOESN'T OPEN DOWNLOAD [https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.0-windows-x64-installer](https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.409/dotnet-sdk-8.0.409-win-x64.exe)
+IF LAUNCHER DOESN'T OPEN DOWNLOAD https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.409/dotnet-sdk-8.0.409-win-x64.exe
